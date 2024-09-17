@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Delivery Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Foodie</h1>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="hero">
+            <div class="hero-content">
+                <h2>Delicious Meals Delivered Fast</h2>
+                <p>Order your favorite food from top restaurants in your area.</p>
+                <a href="#" class="cta-button">Order Now</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="featured">
+            <div class="container">
+                <h1>Featured Restaurants</h1>
+                <div class="restaurant-list">
+                    <div class="restaurant">
+                        <img src="c:\Users\ENGLISH LAB\Desktop\sreenath.jpg." alt="Restaurant 1">
+                        <h3>Restaurant 1</h3>
+                        <p>Delicious Italian Cuisine</p>
+                        <a href="#" class="cta-button">View Menu</a>
+                    </div>
+                    <div class="restaurant">
+                        <img src=' c:\Users\ENGLISH LAB\Desktop\sreenath2.css.jpg."alt="Restaurant 2">
+                        <h2>Restaurant 2</h2>
+                        <p>Authentic Japanese Sushi</p>
+                        <a href="#" class="cta-button">View Menu</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Foodie. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
